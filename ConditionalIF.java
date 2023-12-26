@@ -1,5 +1,5 @@
 /**
- * ConditionalIF
+ * Conditional IF-ELSE PROGRAM
  */
 public class ConditionalIF {
 
