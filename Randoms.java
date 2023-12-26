@@ -1,3 +1,6 @@
+/*
+*   Random values   
+*/
 import java.util.Random;    
 public class Randoms {
     public static void main(String[] args) {
